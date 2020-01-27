@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "552140962761",
+    "firebase_url": "https://cams-8dd13.firebaseio.com",
+    "project_id": "cams-8dd13",
+    "storage_bucket": "cams-8dd13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552140962761:android:ec3044690b4021f71a8618",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552140962761-tmpok1en678amtf94ackdo696sopebqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnq-58F7PS0XtrSX52h7NAbfF3-MRfr0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552140962761-tmpok1en678amtf94ackdo696sopebqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
